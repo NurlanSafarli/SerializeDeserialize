@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CqYZUmol0Hx8CfgIqNLGWm70CRqnCNoviGofXFgfqgWdIvKYndPCCoZTfZj46GC499pe4lT7NYyk+Bana8DJuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nurla\\OneDrive\\Desktop\\AB202 task\\SerializeDeserializeTask\\SerializeDeserializeTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nurla\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\nurla\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\nurla\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
